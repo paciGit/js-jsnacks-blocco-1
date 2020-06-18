@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: yellow;
+}
+
+.container {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  width: 30%;
+  margin: 5px;
+  padding: 10px;
+  border: none;
+}
+
+button {
+  width: 8%;
+  padding: 5px;
+  border-radius: 10px;
+  margin: 10px;
+  border: none;
+}
+
+#print {
+  width: 100%;
+  margin: 20px;
+  padding-right: 5px;
+  color: #000000;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
