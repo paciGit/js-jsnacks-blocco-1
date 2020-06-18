@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #aba464;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 50px;
+  font-style: italic;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+}
+
+p {
+  margin: 20px 0;
+  font-size: 30px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #ffffa0;
+  border: none;
+}
+
+.green {
+  background-color: green;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
