@@ -1,0 +1,13 @@
+[0619/110737.508:ERROR:process_reader_win.cc(188)] ResumeThread: Parametro non corretto. (0x57)
+[0619/110737.509:ERROR:process_reader_win.cc(151)] SuspendThread: Accesso negato. (0x5)
+[0619/110737.509:ERROR:process_reader_win.cc(151)] SuspendThread: Accesso negato. (0x5)
+[0619/110737.509:ERROR:process_reader_win.cc(151)] SuspendThread: Accesso negato. (0x5)
+[0619/110737.510:ERROR:process_reader_win.cc(151)] SuspendThread: Accesso negato. (0x5)
+[0619/110737.510:ERROR:process_reader_win.cc(151)] SuspendThread: Accesso negato. (0x5)
+[0619/110737.510:ERROR:process_reader_win.cc(151)] SuspendThread: Accesso negato. (0x5)
+[0619/110737.510:ERROR:process_reader_win.cc(151)] SuspendThread: Accesso negato. (0x5)
+[0619/110737.510:ERROR:process_reader_win.cc(151)] SuspendThread: Accesso negato. (0x5)
+[0619/110737.510:ERROR:process_reader_win.cc(151)] SuspendThread: Accesso negato. (0x5)
+[0619/110737.510:ERROR:process_reader_win.cc(151)] SuspendThread: Accesso negato. (0x5)
+[0619/110737.510:ERROR:process_reader_win.cc(151)] SuspendThread: Accesso negato. (0x5)
+[0619/110737.510:ERROR:exception_snapshot_win.cc(98)] thread ID 15592 not found in process

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Calcolatrice</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+
+    <div class="container">
+      <h1>Calcolatrice</h1>
+      <div>
+        <input id="numUno" type="number" name="numUno">
+        <input id="numDue" type="number" name="numDue">
+        <select id="operazione" name="operazioni">
+          <option value="">Seleziona</option>
+          <option value="somma">Somma</option>
+          <option value="sottrazione">Sottrazione</option>
+          <option value="moltiplicazione">Moltiplicazione</option>
+          <option value="divisione">Divisione</option>
+        </select>
+      </div>
+      <button id="calcolo" type="button" name="calcolo">Calcola</button>
+      <p id="result"> </p>
+    </div>
+
+    <script type="text/javascript" src="script.js"></script>
+  </body>
+</html>

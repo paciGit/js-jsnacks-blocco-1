@@ -1,0 +1,38 @@
+.pari {
+  background-color: #9ba53f;
+}
+
+.dispari {
+  background-color: #b5625c;
+}
+
+.pari, .dispari {
+  color: #fff;
+}
+
+.none {
+  background-color: #fff;
+  color: #000;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: grey;
+  padding: 50px;
+}
+
+p {
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+button {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: black;
+  color: #fff;
+}
